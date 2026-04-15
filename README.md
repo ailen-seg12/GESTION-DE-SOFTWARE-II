@@ -10,12 +10,12 @@ Para facilitar la navegación y el acceso a los contenidos, el repositorio está
 
 ```text
 GestiónDeSoftwareII/
-├── .gitignore               # Configuración para ignorar archivos no esenciales
-├── README.md                # Descripción general y guía del repositorio (este archivo)
-├── 01_Presentaciones/       # Diapositivas y material expuesto en clase
-├── 02_Actividades/          # Enunciados de Trabajos Prácticos
-├── 03_Bibliografia/         # Artículos, papers, libros recomendados y enlaces de interés
-└── 04_RecursosAdicionales/  # Plantillas, herramientas de software 
+├── .gitignore               
+├── README.md                
+├── 01_Presentaciones/       
+├── 02_Actividades/          
+├── 03_Bibliografia/         
+└── 04_RecursosAdicionales/  
 ## 🚀 Cómo Usar Este Repositorio
  
 * **Explorar:** Naveguen por las carpetas para acceder a las presentaciones, actividades y bibliografía relevante,sean curiosos.
