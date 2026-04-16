@@ -14,8 +14,7 @@ GestiónDeSoftwareII/
 ├── README.md                
 ├── 01_Presentaciones/       
 ├── 02_Actividades/          
-├── 03_Bibliografia/         
-└── 04_RecursosAdicionales/  
+├── 03_Recursos_Adicionales/ 
 ## 🚀 Cómo Usar Este Repositorio
  
 * **Explorar:** Naveguen por las carpetas para acceder a las presentaciones, actividades y bibliografía relevante,sean curiosos.
